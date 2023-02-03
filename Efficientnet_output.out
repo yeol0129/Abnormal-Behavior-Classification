@@ -1,0 +1,449 @@
+/Users/siyeolkim/miniforge3/envs/py310/bin/python3.10 /Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+    number  ...                                        annotations
+0     5335  ...  [{'label': {'x': 685, 'y': 563, 'width': 151, ...
+1     5339  ...  [{'label': {'x': 688, 'y': 574, 'width': 151, ...
+2     5344  ...  [{'label': {'x': 678, 'y': 564, 'width': 154, ...
+3     5349  ...  [{'label': {'x': 678, 'y': 576, 'width': 154, ...
+4     5354  ...  [{'label': {'x': 663, 'y': 582, 'width': 169, ...
+..     ...  ...                                                ...
+82    5744  ...  [{'label': {'x': 1503, 'y': 882, 'width': 412,...
+83    5749  ...  [{'label': {'x': 1619, 'y': 888, 'width': 296,...
+84    5754  ...  [{'label': {'x': 1737, 'y': 923, 'width': 327,...
+85    5759  ...  [{'label': {'x': 1791, 'y': 981, 'width': 384,...
+86    5764  ...  [{'label': {'x': 1949, 'y': 981, 'width': 340,...
+
+[87 rows x 3 columns]
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+/Users/siyeolkim/PycharmProjects/pythonProject4/efficient.py:50: FutureWarning: pandas.io.json.json_normalize is deprecated, use pandas.json_normalize instead.
+  frame=json_normalize(d['frames'])
+       number  ...                                        annotations
+0          13  ...  [{'label': {'x': 1976, 'y': 43, 'width': 23, '...
+1          27  ...  [{'label': {'x': 1977, 'y': 41, 'width': 29, '...
+2          42  ...  [{'label': {'x': 1987, 'y': 40, 'width': 28, '...
+3          57  ...  [{'label': {'x': 1980, 'y': 41, 'width': 27, '...
+4          72  ...  [{'label': {'x': 1987, 'y': 42, 'width': 27, '...
+...       ...  ...                                                ...
+21131    4109  ...  [{'label': {'x': 2546, 'y': 538, 'width': 215,...
+21132    4114  ...  [{'label': {'x': 2545, 'y': 522, 'width': 212,...
+21133    4119  ...  [{'label': {'x': 2536, 'y': 522, 'width': 239,...
+21134    4124  ...  [{'label': {'x': 2527, 'y': 543, 'width': 254,...
+21135    4129  ...  [{'label': {'x': 2533, 'y': 518, 'width': 224,...
+
+[21136 rows x 3 columns]
+                    image     x    y  width  height     code
+0            frame_13.jpg  1976   43     23      82    child
+1            frame_13.jpg  2045   19     22      43   person
+2            frame_27.jpg  1977   41     29      83    child
+3            frame_27.jpg  2038   18     27      48   person
+4            frame_42.jpg  1987   40     28      83    child
+...                   ...   ...  ...    ...     ...      ...
+41169  frame_4119복103.jpg  2871  487    286     434  assault
+41170  frame_4124복103.jpg  2527  543    254     392  assault
+41171  frame_4124복103.jpg  2889  481    275     403  assault
+41172  frame_4129복103.jpg  2533  518    224     411  assault
+41173  frame_4129복103.jpg  2915  485    247     401  assault
+
+[41174 rows x 6 columns]
+Metal device set to: Apple M1 Pro
+
+systemMemory: 16.00 GB
+maxCacheSize: 5.33 GB
+
+2023-02-03 11:55:49.051222: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2023-02-03 11:55:49.052279: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ efficientnetb0 (Functional)  (None, 7, 7, 1280)       4049571
+
+ global_average_pooling2d (G  (None, 1280)             0
+ lobalAveragePooling2D)
+
+ dense (Dense)               (None, 128)               163968
+
+ batch_normalization (BatchN  (None, 128)              512
+ ormalization)
+
+ dropout (Dropout)           (None, 128)               0
+
+ dense_1 (Dense)             (None, 8)                 1032
+
+=================================================================
+Total params: 4,215,083
+Trainable params: 165,256
+Non-trainable params: 4,049,827
+_________________________________________________________________
+2023-02-03 11:59:15.334305: W tensorflow/core/platform/profile_utils/cpu_utils.cc:128] Failed to get CPU frequency: 0 Hz
+Epoch 1/10
+2023-02-03 11:59:17.814681: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:113] Plugin optimizer for device_type GPU is enabled.
+772/772 [==============================] - ETA: 0s - loss: 0.4601 - accuracy: 0.84432023-02-03 12:00:32.252065: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:113] Plugin optimizer for device_type GPU is enabled.
+
+Epoch 1: val_loss improved from inf to 0.28326, saving model to ./Efficientnet_model/01-0.2833.hdf5
+772/772 [==============================] - 110s 137ms/step - loss: 0.4601 - accuracy: 0.8443 - val_loss: 0.2833 - val_accuracy: 0.8829
+Epoch 2/10
+772/772 [==============================] - ETA: 0s - loss: 0.2313 - accuracy: 0.9013
+Epoch 2: val_loss improved from 0.28326 to 0.18760, saving model to ./Efficientnet_model/02-0.1876.hdf5
+772/772 [==============================] - 127s 164ms/step - loss: 0.2313 - accuracy: 0.9013 - val_loss: 0.1876 - val_accuracy: 0.9186
+Epoch 3/10
+772/772 [==============================] - ETA: 0s - loss: 0.2020 - accuracy: 0.9137
+Epoch 3: val_loss did not improve from 0.18760
+772/772 [==============================] - 127s 165ms/step - loss: 0.2020 - accuracy: 0.9137 - val_loss: 0.2117 - val_accuracy: 0.9067
+Epoch 4/10
+772/772 [==============================] - ETA: 0s - loss: 0.1818 - accuracy: 0.9222
+Epoch 4: val_loss improved from 0.18760 to 0.18513, saving model to ./Efficientnet_model/04-0.1851.hdf5
+772/772 [==============================] - 127s 165ms/step - loss: 0.1818 - accuracy: 0.9222 - val_loss: 0.1851 - val_accuracy: 0.9231
+Epoch 5/10
+772/772 [==============================] - ETA: 0s - loss: 0.1619 - accuracy: 0.9332
+Epoch 5: val_loss improved from 0.18513 to 0.15858, saving model to ./Efficientnet_model/05-0.1586.hdf5
+772/772 [==============================] - 127s 165ms/step - loss: 0.1619 - accuracy: 0.9332 - val_loss: 0.1586 - val_accuracy: 0.9372
+Epoch 6/10
+772/772 [==============================] - ETA: 0s - loss: 0.1489 - accuracy: 0.9375
+Epoch 6: val_loss improved from 0.15858 to 0.15758, saving model to ./Efficientnet_model/06-0.1576.hdf5
+772/772 [==============================] - 127s 164ms/step - loss: 0.1489 - accuracy: 0.9375 - val_loss: 0.1576 - val_accuracy: 0.9347
+Epoch 7/10
+772/772 [==============================] - ETA: 0s - loss: 0.1396 - accuracy: 0.9428
+Epoch 7: val_loss did not improve from 0.15758
+772/772 [==============================] - 127s 165ms/step - loss: 0.1396 - accuracy: 0.9428 - val_loss: 0.1781 - val_accuracy: 0.9279
+Epoch 8/10
+772/772 [==============================] - ETA: 0s - loss: 0.1230 - accuracy: 0.9517
+Epoch 8: val_loss improved from 0.15758 to 0.15054, saving model to ./Efficientnet_model/08-0.1505.hdf5
+772/772 [==============================] - 126s 164ms/step - loss: 0.1230 - accuracy: 0.9517 - val_loss: 0.1505 - val_accuracy: 0.9406
+Epoch 9/10
+772/772 [==============================] - ETA: 0s - loss: 0.1207 - accuracy: 0.9521
+Epoch 9: val_loss improved from 0.15054 to 0.14660, saving model to ./Efficientnet_model/09-0.1466.hdf5
+772/772 [==============================] - 126s 164ms/step - loss: 0.1207 - accuracy: 0.9521 - val_loss: 0.1466 - val_accuracy: 0.9399
+Epoch 10/10
+772/772 [==============================] - ETA: 0s - loss: 0.1115 - accuracy: 0.9558
+Epoch 10: val_loss improved from 0.14660 to 0.13909, saving model to ./Efficientnet_model/10-0.1391.hdf5
+772/772 [==============================] - 127s 164ms/step - loss: 0.1115 - accuracy: 0.9558 - val_loss: 0.1391 - val_accuracy: 0.9461
+{'loss': [0.4601094424724579, 0.23125840723514557, 0.20201154053211212, 0.18183642625808716, 0.1618567705154419, 0.14886926114559174, 0.13957621157169342, 0.12297085672616959, 0.12071043252944946, 0.11151301115751266], 'accuracy': [0.8443104028701782, 0.9013480544090271, 0.9136947393417358, 0.9221552014350891, 0.9331660270690918, 0.9375379681587219, 0.9428005218505859, 0.9517062902450562, 0.9520706534385681, 0.9557543992996216], 'val_loss': [0.28326013684272766, 0.18759821355342865, 0.21169686317443848, 0.18512780964374542, 0.1585773229598999, 0.15757599472999573, 0.1780509650707245, 0.15054142475128174, 0.14659923315048218, 0.13909222185611725], 'val_accuracy': [0.8829386830329895, 0.9186399579048157, 0.9067395329475403, 0.9231329560279846, 0.9372192025184631, 0.9346690773963928, 0.9278688430786133, 0.9406192898750305, 0.9398907423019409, 0.9460837841033936]}
+[0.4601094424724579, 0.23125840723514557, 0.20201154053211212, 0.18183642625808716, 0.1618567705154419, 0.14886926114559174, 0.13957621157169342, 0.12297085672616959, 0.12071043252944946, 0.11151301115751266]
+[0.8443104028701782, 0.9013480544090271, 0.9136947393417358, 0.9221552014350891, 0.9331660270690918, 0.9375379681587219, 0.9428005218505859, 0.9517062902450562, 0.9520706534385681, 0.9557543992996216]
+[0.28326013684272766, 0.18759821355342865, 0.21169686317443848, 0.18512780964374542, 0.1585773229598999, 0.15757599472999573, 0.1780509650707245, 0.15054142475128174, 0.14659923315048218, 0.13909222185611725]
+[0.8829386830329895, 0.9186399579048157, 0.9067395329475403, 0.9231329560279846, 0.9372192025184631, 0.9346690773963928, 0.9278688430786133, 0.9406192898750305, 0.9398907423019409, 0.9460837841033936]
+2023-02-03 12:20:11.005806: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:113] Plugin optimizer for device_type GPU is enabled.
+258/258 [==============================] - 36s 136ms/step
+/Users/siyeolkim/miniforge3/envs/py310/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+[[5746    0    0  315    1    0    0    3]
+ [   0    1    0    0    0    0    0    0]
+ [   1    0    0    0    0    0    0    0]
+ [ 152    0    0 1983    0    1    6    2]
+ [   0    0    0    1    0    0    0    0]
+ [   0    0    0    2    0    3    0    0]
+ [   0    0    0    2    0    0    0    0]
+ [   2    0    0    0    0    0    0   14]]
+precision: 0.5402, recall: 0.5434, f1: 0.5399
+2023-02-03 12:21:00.560 python3.10[4550:101134] +[CATransaction synchronize] called within transaction
+
+Process finished with exit code 0
