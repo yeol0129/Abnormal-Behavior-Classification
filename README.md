@@ -10,7 +10,7 @@
 > 
 > <details>
 > <summary>접기/펼치기</summary>
-> ```python
+> ``` 
 > {
 >    "id": ...,
 >    "file": "video....mp4",
