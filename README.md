@@ -7,3 +7,8 @@
 > * labeled data
 > * image data
 > ### Labeled Data sample (json file)
+> 
+> <details>
+> <summary>접기/펼치기</summary>
+> 접은 내용(ex 소스 코드)
+> </details>
