@@ -6,11 +6,11 @@
 ## Data
 > * labeled data
 > * image data
-> ### Labeled Data sample
+> ### Labeled Data sample (json file)
 ```
   {
-    "id": 207~~,
-    "file": "video_20782~~.mp4",
+    "id": ~~,
+    "file": "video~~.mp4",
     "metadata": {
         "width": 3840,
         "height": 2160,
@@ -28,7 +28,7 @@
     "frames": [
         {
             "number": 4582,
-            "image": "frame_4582복2.jpg",
+            "image": "frame~~.jpg",
             "annotations": [
                 {
                     "label": {
