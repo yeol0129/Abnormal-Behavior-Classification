@@ -8,7 +8,7 @@
 > * image data
 > ### Labeled Data sample
 > ```
-  {
+>  {
     "id": 207~~,
     "file": "video_20782~~.mp4",
     "metadata": {
