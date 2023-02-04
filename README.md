@@ -42,7 +42,6 @@
 >                        "height": 760
 >                    },
 >                    "category": {
->                        "code": "theft",
->          ... 
+>                        "code": "theft", ...
 > ```
 > </details>
