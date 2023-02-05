@@ -79,6 +79,7 @@ df2=pd.concat([frame_pre,code_df],axis=1)
 
 ```
 I created a new data frame with only the image name, bounding box, and code left.
+
 df2 sample : 
 image|x|y|width|height|code
 ---|---|---|---|---|---|
