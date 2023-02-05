@@ -27,4 +27,5 @@
 > <details>
 > <summary>open</summary>
 > <img src="https://user-images.githubusercontent.com/111839344/216803164-7229af7d-90cb-4f5b-b74f-f303ec3e0a48.png" width="300" height="300">
+> The number of image file is 21,136
 > </details>
