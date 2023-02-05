@@ -84,3 +84,5 @@ df2 sample :
 image|x|y|width|height|code
 ---|---|---|---|---|---|
 frame_13.jpg|1976|43|23|82|child
+frame_13.jpg|2045|19|22|43|person
+frame_4124복103.jpg|2889|481|275|403|assault
