@@ -116,8 +116,11 @@ def plot_img(image_name):
 
     ax[1].set_title('Image with Boundary Box')
     ax[1].imshow(image2)
-
-    plt.show()
+    
+   plt.show()
 
 plot_img("frame_4223 복사본36.jpg")
 ```
+output : 
+<img src="https://user-images.githubusercontent.com/111839344/216853244-9cdb1bbe-305d-4549-84fc-e2ed3d9cdbba.png" width="300" height="300">
+
