@@ -79,7 +79,7 @@ df2=pd.concat([frame_pre,code_df],axis=1)
 
 ```
 I created a new data frame with only the image name, bounding box, and code left.
-
+```python
 df2 sample : 
 image|x|y|width|height|code
 ---|---|---|---|---|---|
@@ -88,3 +88,36 @@ frame_13.jpg|2045|19|22|43|person
 frame_4124복103.jpg|2889|481|275|403|assault
 
 ## Show bounding box
+
+def plot_img(image_name):
+    fig, ax = plt.subplots(1, 2, figsize=(14, 14))
+    ax = ax.flatten()
+
+    bbox = df2[df2['image'] == image_name]
+    img_path = os.path.join(images, image_name)
+
+    image = cv2.imread(img_path, cv2.IMREAD_COLOR)
+    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB).astype(np.float64)
+    image /= 255.0
+    image2 = image
+
+    ax[0].set_title('Original Image')
+    ax[0].imshow(image)
+
+    for idx, row in bbox.iterrows():
+        x = row['x']
+        y = row['y']
+        w = row['width']
+        h = row['height']
+        label = row['code']
+        cv2.rectangle(image2, (int(x), int(y), int(w), int(h)), (255, 0, 0), 3)
+        font = cv2.FONT_HERSHEY_SIMPLEX
+        cv2.putText(image2, label, (int(x), int(y - 10)), font, 3, (255, 0, 0), 4)
+
+    ax[1].set_title('Image with Boundary Box')
+    ax[1].imshow(image2)
+
+    plt.show()
+
+plot_img("frame_4223 복사본36.jpg")
+```
