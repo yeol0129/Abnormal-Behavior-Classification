@@ -79,7 +79,7 @@ df2=pd.concat([frame_pre,code_df],axis=1)
 
 ```
 I created a new data frame with only the image name, bounding box, and code left.
-```python
+
 df2 sample : 
 image|x|y|width|height|code
 ---|---|---|---|---|---|
@@ -88,7 +88,7 @@ frame_13.jpg|2045|19|22|43|person
 frame_4124복103.jpg|2889|481|275|403|assault
 
 ## Show bounding box
-
+```python
 def plot_img(image_name):
     fig, ax = plt.subplots(1, 2, figsize=(14, 14))
     ax = ax.flatten()
