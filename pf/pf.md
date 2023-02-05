@@ -54,6 +54,9 @@ number|image|annotations
 ...|...|...|
 
 Annotation data must be separated to import bounding boxes(x,y,width,height).
+<details>
+<summary>open code</summary>
+    
 ```python
 image_pre=[]
 label_pre=[]
@@ -79,6 +82,7 @@ frame_pre=pd.concat([image_df,label_df],axis=1)
 df2=pd.concat([frame_pre,code_df],axis=1)
 
 ```
+</details>
 I created a new data frame with only the image name, bounding box, and code left.
 
 df2 sample : 
@@ -89,6 +93,9 @@ frame_13.jpg|2045|19|22|43|person
 frame_4124복103.jpg|2889|481|275|403|assault
 
 ## Show bounding box
+<details>
+<summary>open code</summary>    
+
 ```python
 def plot_img(image_name):
     fig, ax = plt.subplots(1, 2, figsize=(14, 14))
@@ -122,6 +129,7 @@ def plot_img(image_name):
 
 plot_img("frame_4223 복사본36.jpg")
 ```
+</details>
 output : 
 
 <img src="https://user-images.githubusercontent.com/111839344/216853336-db10eb1e-4536-4d2a-993a-9c51b21cdaa3.png" width="450" height="200">
