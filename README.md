@@ -10,38 +10,6 @@
 > 
 > <details>
 > <summary>open</summary>
->  ```
->  {
->    "id": ...,
->    "file": "video....mp4",
->    "metadata": {
->        "width": 3840,
->        "height": 2160,
->        "duration": 313.7,
->        "fps": 30,
->        "frames": 9411,
->        "created": "..."
->    },
->    "events": [
->        {
->            "name": "폭행",
->            "start_time": 152.9,
->            "duration": 4.95
->        }
->    ],
->    "frames": [
->        {
->            "number": ...,
->            "image": "frame....jpg",
->            "annotations": [
->                {
->                    "label": {
->                        "x": 1679,
->                        "y": 938,
->                        "width": 246,
->                        "height": 760
->                    },
->                    "category": {
->                        "code": "theft", ...
->  ```
+> 
 > </details>
+<img src="https://user-images.githubusercontent.com/111839344/216802059-378c31f1-14a0-4127-8cdf-5ef276f004f3.png" width="150" height="200">
