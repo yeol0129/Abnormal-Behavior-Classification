@@ -123,5 +123,6 @@ def plot_img(image_name):
 plot_img("frame_4223 복사본36.jpg")
 ```
 output : 
-<img src="https://user-images.githubusercontent.com/111839344/216853336-db10eb1e-4536-4d2a-993a-9c51b21cdaa3.png" width="300" height="150">
+
+<img src="https://user-images.githubusercontent.com/111839344/216853336-db10eb1e-4536-4d2a-993a-9c51b21cdaa3.png" width="450" height="200">
 
