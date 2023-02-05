@@ -32,6 +32,8 @@
 > </details>
 
 ## Check Data
+<details>
+<summary>open</summary>
 ```python
 for i in range(len(json_file_list)):
     with open("/Volumes/Siyeol_ssd/jupyter/지하철 역사 내 CCTV 이상행동 영상/Training/폭행/[라벨]폭행_1/"+json_file_list[i]) as f:
@@ -41,6 +43,7 @@ for i in range(len(json_file_list)):
 df=pd.concat(list_df,ignore_index=True)
 print(df)
 ```
+</details>
 output : 
 
 number|image|annotations
