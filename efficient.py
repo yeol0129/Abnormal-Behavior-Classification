@@ -1,34 +1,15 @@
 import os
-import glob
 import matplotlib.pyplot as plt
-from PIL import Image
 import pandas as pd
 import numpy as np
 import json
-import random
-import os.path as osp
 import cv2
-from PIL import Image
-import sklearn
 import tensorflow as tf
 import sklearn.model_selection
 from pandas.io.json import json_normalize
-from tensorflow import keras
-from keras import models
-from keras import layers
-from keras import preprocessing
-from keras import optimizers
-from keras import callbacks
-from keras import applications
-from sklearn.metrics import confusion_matrix,precision_score , recall_score , accuracy_score, f1_score
-from tensorflow import keras
-from keras import models
-from keras import layers
-from keras import preprocessing
-from keras import optimizers
-from keras import callbacks
-from keras import applications
-
+from sklearn.metrics import confusion_matrix,precision_score , recall_score , f1_score
+from keras import preprocessing, callbacks
+from sklearn.preprocessing import LabelEncoder
 
 path = '/Volumes/Siyeol_ssd/jupyter/지하철 역사 내 CCTV 이상행동 영상/Training/폭행/[라벨]폭행_1'
 file_list = os.listdir(path)
@@ -107,10 +88,9 @@ for i in range(len(x)):
     x_act.append(x[i])
 
 x_train=np.array(x_act)
-from sklearn.preprocessing import LabelEncoder
+
 lr = LabelEncoder()
 y_train = lr.fit_transform(y)
-
 y_train = tf.keras.utils.to_categorical(y_train)
 
 
@@ -153,7 +133,7 @@ checkpointer=callbacks.ModelCheckpoint(filepath=modelpath,monitor='val_loss',ver
 early_stopping_callback=callbacks.EarlyStopping(monitor='val_loss',patience=3)
 
 hist = model.fit(x_train, y_train,batch_size=32,
-                    epochs=10,
+                    epochs=50,
                     verbose=1,
                     validation_data=(x_val, y_val),
                     callbacks=[checkpointer,early_stopping_callback])
