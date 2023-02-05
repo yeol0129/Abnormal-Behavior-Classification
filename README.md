@@ -15,5 +15,5 @@
 > ### Image Data sample
 > <details>
 > <summary>open</summary>
-> <img src="https://user-images.githubusercontent.com/111839344/216803164-7229af7d-90cb-4f5b-b74f-f303ec3e0a48.png" width="200" height="200">
+> <img src="https://user-images.githubusercontent.com/111839344/216803164-7229af7d-90cb-4f5b-b74f-f303ec3e0a48.png" width="300" height="300">
 > </details>
