@@ -18,8 +18,9 @@
 > 'annotation_2250172.json',
 > 'annotation_2076491.json',
 > 'annotation_2250177.json',
+> ...
 > ```
->
+> The number of json file is 157
 > </details>
 > 
 > ### Image Data sample
