@@ -46,5 +46,5 @@ output :
 number|image|annotations|
 ---|---|---|
 13|frame_13.jpg|[{'label': {'x': 1976, 'y': 43, 'width': 23, '...|
-...
+...|...|...|
 ```
