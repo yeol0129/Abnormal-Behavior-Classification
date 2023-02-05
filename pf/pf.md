@@ -1,4 +1,5 @@
 # Abnormal Behavior Classification
+
 ***
 1. Resnet50V2 model [code](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/main.py), [output](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/Resnet_output.out)
 2. EfficientNetB0 model [code](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/efficient.py), [output](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/Efficientnet_output.out)
@@ -122,5 +123,5 @@ def plot_img(image_name):
 plot_img("frame_4223 복사본36.jpg")
 ```
 output : 
-<img src="https://user-images.githubusercontent.com/111839344/216853244-9cdb1bbe-305d-4549-84fc-e2ed3d9cdbba.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/111839344/216853336-db10eb1e-4536-4d2a-993a-9c51b21cdaa3.png" width="300" height="300">
 
