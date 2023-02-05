@@ -10,7 +10,10 @@
 > 
 > <details>
 > <summary>open</summary>
-> ``` {
+> ```  ```
+  
+  ```
+>  {
 >    "id": ...,
 >    "file": "video....mp4",
 >    "metadata": {
@@ -41,8 +44,6 @@
 >                        "height": 760
 >                    },
 >                    "category": {
->                        "code": "theft", ... ```
-  
-  ```
+>                        "code": "theft", ...
   ```
 > </details>
