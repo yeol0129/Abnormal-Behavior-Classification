@@ -42,10 +42,10 @@ df=pd.concat(list_df,ignore_index=True)
 print(df)
 ```
 output : 
-```
+
 number|image|annotations
 ---|---|---|
 13|frame_13.jpg|[{'label': {'x': 1976, 'y': 43, 'width': 23, '...
+...|...|...|
 
-```
 
