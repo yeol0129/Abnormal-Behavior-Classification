@@ -9,9 +9,8 @@
 > ### Labeled Data sample (json file)
 > 
 > <details>
-> <summary>접기/펼치기</summary>
-> ``` 
-> {
+> <summary>open</summary>
+> ``` {
 >    "id": ...,
 >    "file": "video....mp4",
 >    "metadata": {
@@ -42,6 +41,5 @@
 >                        "height": 760
 >                    },
 >                    "category": {
->                        "code": "theft", ...
-> ```
+>                        "code": "theft", ... ```
 > </details>
