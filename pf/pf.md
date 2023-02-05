@@ -45,14 +45,14 @@ df=pd.concat(list_df,ignore_index=True)
 print(df)
 ```
 </details>
-output : 
+output sample: 
 
 number|image|annotations
 ---|---|---|
 13|frame_13.jpg|[{'label': {'x': 1976, 'y': 43, 'width': 23, '...
 ...|...|...|
 
-Annotation data must be separated to import bounding boxes(x,y,width,hight).
+Annotation data must be separated to import bounding boxes(x,y,width,height).
 ```python
 image_pre=[]
 label_pre=[]
@@ -68,5 +68,18 @@ for i in range(len(df)):
     for j in df["annotations"][i]:
         code=j["category"]["code"]
         code_pre.append(code)
+        
+image_df=pd.DataFrame(image_pre)
+image_df.columns=['image']
+label_df=pd.DataFrame(label_pre)
+code_df=pd.DataFrame(code_pre)
+code_df.columns=['code']
+frame_pre=pd.concat([image_df,label_df],axis=1)
+df2=pd.concat([frame_pre,code_df],axis=1)
 
 ```
+I created a new data frame with only the image name, bounding box, and code left.
+df2 sample : 
+image|x|y|width|height|code
+---|---|---|---|---|---|
+frame_13.jpg|1976|43|23|82|child
