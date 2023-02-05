@@ -12,7 +12,7 @@
 > <summary>open</summary>
 > ```  ```
   
-  ```
+>  ```
 >  {
 >    "id": ...,
 >    "file": "video....mp4",
@@ -45,5 +45,5 @@
 >                    },
 >                    "category": {
 >                        "code": "theft", ...
-  ```
+>  ```
 > </details>
