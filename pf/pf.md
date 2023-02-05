@@ -33,7 +33,7 @@
 
 ## Check Data
 <details>
-<summary>open</summary>
+<summary>open code</summary>
     
 ```python
 for i in range(len(json_file_list)):
@@ -52,4 +52,21 @@ number|image|annotations
 13|frame_13.jpg|[{'label': {'x': 1976, 'y': 43, 'width': 23, '...
 ...|...|...|
 
+Annotation data must be separated to import bounding boxes(x,y,width,hight).
+```python
+image_pre=[]
+label_pre=[]
+code_pre=[]
+for i in range(len(df)):
+    for j in df["annotations"][i]:
+        p=df["image"][i]
+        f=j["label"]
+        image_pre.append(p)
+        label_pre.append(f)
 
+for i in range(len(df)):
+    for j in df["annotations"][i]:
+        code=j["category"]["code"]
+        code_pre.append(code)
+
+```
