@@ -30,3 +30,14 @@
 >
 > The number of image file is 21,136
 > </details>
+
+## Check Data
+```
+for i in range(len(json_file_list)):
+    with open("/Volumes/Siyeol_ssd/jupyter/지하철 역사 내 CCTV 이상행동 영상/Training/폭행/[라벨]폭행_1/"+json_file_list[i]) as f:
+        d = json.load(f)
+    frame=json_normalize(d['frames'])
+    list_df.append(frame)
+df=pd.concat(list_df,ignore_index=True)
+print(df)
+```
