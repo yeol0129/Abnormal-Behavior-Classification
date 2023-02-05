@@ -10,8 +10,6 @@
 > 
 > <details>
 > <summary>open</summary>
-> ```  ```
-  
 >  ```
 >  {
 >    "id": ...,
