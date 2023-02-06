@@ -223,6 +223,25 @@ test_datagen.fit(x_val)
 > ```
 > </details>
 
+model compile
+<details>
+<summary>open code</summary>
+
+```python
+model = tf.keras.Sequential([
+   Efficientnet_model,
+   tf.keras.layers.GlobalAveragePooling2D(),
+   tf.keras.layers.Dense(128, activation='relu'),
+   tf.keras.layers.BatchNormalization(),
+   tf.keras.layers.Dropout(0.2),
+   tf.keras.layers.Dense(8, activation='softmax')
+])
+model.compile(optimizer = tf.keras.optimizers.Adam(learning_rate=0.001),
+             loss = 'categorical_crossentropy',
+             metrics=['accuracy'])
+```    
+    
+</details>
 ### ResNet50 Result
 <img src="https://user-images.githubusercontent.com/111839344/216874403-6146acee-7d3c-49af-9adf-e3f5b6175236.png" width="300" height="300">
 
