@@ -242,6 +242,7 @@ model.compile(optimizer = tf.keras.optimizers.Adam(learning_rate=0.001),
 ```    
     
 </details>
+
 ### ResNet50 Result
 <img src="https://user-images.githubusercontent.com/111839344/216874403-6146acee-7d3c-49af-9adf-e3f5b6175236.png" width="300" height="300">
 
