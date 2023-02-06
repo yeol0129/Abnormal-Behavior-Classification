@@ -206,7 +206,7 @@ test_datagen.fit(x_val)
 * EfficientNetB0
 > <details>
 > <summary>open code</summary>
-
+>
 > ```python
 > Efficientnet_model = tf.keras.applications.EfficientNetB0(weights='imagenet', input_shape = (224,224,3),
 >                                                     include_top=False)
