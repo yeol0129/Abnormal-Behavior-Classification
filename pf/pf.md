@@ -184,3 +184,20 @@ lr = LabelEncoder()
 y_train = lr.fit_transform(y)
 y_train = tf.keras.utils.to_categorical(y_train)
 ```
+
+Separate data into training, validation, and test data.
+
+```python
+x_train,x_te,y_train,y_te=sklearn.model_selection.train_test_split(x_train,y_train,test_size=0.4,random_state=0)
+x_val,x_test,y_val,y_test=sklearn.model_selection.train_test_split(x_te,y_te,test_size=0.5,random_state=0)
+```
+
+Use ImageDataGenerator to transform training data.
+
+```python
+train_datagen = preprocessing.image.ImageDataGenerator(rescale = 1/255,rotation_range = 30, width_shift_range = 0.2, height_shift_range = 0.2,
+                                   shear_range = 0.2, zoom_range = 0.2, horizontal_flip = True, vertical_flip =True)
+test_datagen = preprocessing.image.ImageDataGenerator(rescale = 1/255)
+train_datagen.fit(x_train)
+test_datagen.fit(x_val)
+```
