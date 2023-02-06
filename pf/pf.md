@@ -5,8 +5,8 @@
 2. EfficientNetB0 model [code](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/efficient.py), [output](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/Efficientnet_output.out)
 ***
 ## Data (by [AIHub](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=174))
-> * labeled data
-> * image data
+> * labeled data (The number of json file is 157)
+> * image data (The number of image is 21,136)
 > ### Labeled Data sample (json file)
 > 
 > <details>
@@ -21,7 +21,7 @@
 > 'annotation_2250177.json',
 > ...
 > ```
-> The number of json file is 157
+> 
 > </details>
 > 
 > ### Image Data sample
@@ -29,7 +29,7 @@
 > <summary>open</summary>
 > <img src="https://user-images.githubusercontent.com/111839344/216803164-7229af7d-90cb-4f5b-b74f-f303ec3e0a48.png" width="300" height="300">
 >
-> The number of image file is 21,136
+> 
 > </details>
 
 ## Check Data
@@ -134,3 +134,23 @@ output :
 
 <img src="https://user-images.githubusercontent.com/111839344/216853336-db10eb1e-4536-4d2a-993a-9c51b21cdaa3.png" width="450" height="200">
 
+## Data Preprocessing
+<details>
+<summary>open code</summary>   
+```python
+x=[]
+y=[]
+for i in range(len(df2)):
+    arr=[]
+    for item in df2.iloc[i]:
+        arr.append(item)
+    img = cv2.imread(os.path.join(images, arr[0]))
+    img = img[arr[2]:(arr[2]+arr[4]),arr[1]:(arr[1]+arr[3])]
+    try:
+        img = cv2.resize(img, (224, 224))
+    except:
+        continue
+    x.append(img)
+    y.append(arr[5])
+ ```
+ </details>
