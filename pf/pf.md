@@ -5,6 +5,7 @@
 2. EfficientNetB0 model [code](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/efficient.py), [output](https://github.com/yeol0129/AbnormalBehavior-Classification/blob/master/Efficientnet_output.out)
 ***
 ## Data ([AIHub](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=174))
+> I used only 3 out of 10 assault data.
 > * labeled data (The number of json file is 157)
 > * image data (The number of image is 21,136)
 > ### Labeled Data sample (json file)
@@ -282,4 +283,22 @@ confusion matrix :
 precision: 0.5402
 recall: 0.5434
 f1: 0.5399
+```
+
+## Prediction
+I made a prediction using a slightly better model(EfficientNetB0 model).
+Test image from NBN News ([link](https://www.nbnnews.com.au/2021/12/26/caught-on-cctv-police-look-for-two-men-after-service-station-attack/))
+Result :
+
+```
+assault = 99.51331615447998
+child = 6.97717799400529e-18
+escalator_fall = 1.3971134809068821e-14
+person = 0.48668673262000084
+public_intoxication = 3.996084019242119e-09
+spy_camera = 2.4131255804346607e-11
+surrounding_fall = 2.5516518134945055e-13
+theft = 5.906590095608319e-20
+---
+result =  assault
 ```
