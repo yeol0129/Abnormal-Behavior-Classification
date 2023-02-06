@@ -33,6 +33,7 @@
 > </details>
 
 ## Check Data
+Data Frame
 <details>
 <summary>open code</summary>
     
@@ -91,6 +92,20 @@ image|x|y|width|height|code
 frame_13.jpg|1976|43|23|82|child
 frame_13.jpg|2045|19|22|43|person
 frame_4124복103.jpg|2889|481|275|403|assault
+
+Check the contents of the code.
+```
+[41174 rows x 6 columns]
+assault                30158
+person                 10895
+theft                     65
+spy_camera                20
+child                     12
+public_intoxication       12
+surrounding_fall          10
+escalator_fall             2
+Name: code, dtype: int64
+```
 
 ## Show bounding box
 <details>
