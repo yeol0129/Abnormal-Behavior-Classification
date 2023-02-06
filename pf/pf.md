@@ -174,8 +174,7 @@ for i in range(len(df2)):
  </details>
  
 x,y sample
-<details>
-<summary>open pic</summary>
+
 <img src="https://user-images.githubusercontent.com/111839344/216856224-63c361e1-2e64-4e38-8b70-51fcf9f10176.png" width="250" height="300">
- </details>
+
 
