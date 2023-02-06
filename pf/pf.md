@@ -289,6 +289,7 @@ f1: 0.5399
 I made a prediction using a slightly better model(EfficientNetB0 model).
 
 Test image from NBN News ([link](https://www.nbnnews.com.au/2021/12/26/caught-on-cctv-police-look-for-two-men-after-service-station-attack/))
+
 <img src="https://user-images.githubusercontent.com/111839344/216888195-b98f01ef-719a-4611-8d6e-0ebb4f1f9301.jpg" width="200" height="200">
 
 Result :
