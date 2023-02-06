@@ -201,3 +201,7 @@ test_datagen = preprocessing.image.ImageDataGenerator(rescale = 1/255)
 train_datagen.fit(x_train)
 test_datagen.fit(x_val)
 ```
+
+## Modeling
+* EfficientNetB0
+* ResNet50V2
