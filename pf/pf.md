@@ -136,7 +136,8 @@ output :
 
 ## Data Preprocessing
 <details>
-<summary>open code</summary>   
+<summary>open code</summary>
+
 ```python
 x=[]
 y=[]
@@ -153,4 +154,5 @@ for i in range(len(df2)):
     x.append(img)
     y.append(arr[5])
  ```
+    
  </details>
