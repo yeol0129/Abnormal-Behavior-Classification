@@ -212,4 +212,13 @@ Efficientnet_model = tf.keras.applications.EfficientNetB0(weights='imagenet', in
                                                     include_top=False)
 ```
 </details>
+
 * ResNet50V2
+<details>
+<summary>open code</summary>
+
+```python
+Resnet_model = tf.keras.applications.ResNet50V2(weights='imagenet', input_shape = (224,224,3),
+                                                    include_top=False)
+```
+</details>
