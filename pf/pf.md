@@ -172,3 +172,9 @@ for i in range(len(df2)):
  ```
     
  </details>
+ 
+x,y sample<img width="225" alt="Screenshot 2023-02-06 at 11 29 56 AM" src="https://user-images.githubusercontent.com/111839344/216855872-1468da30-87e8-4ae7-8aaa-5d5afee21620.png">
+
+y[1]:'person'
+x[10]:
+<img src="https://user-images.githubusercontent.com/111839344/216855872-1468da30-87e8-4ae7-8aaa-5d5afee21620.png" width="224" height="224">
