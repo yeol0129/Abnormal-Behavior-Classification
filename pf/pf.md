@@ -176,6 +176,8 @@ for i in range(len(df2)):
 x,y sample
  ```
 y[1]:'person'
-x[10]:
-<img src="https://user-images.githubusercontent.com/111839344/216855872-1468da30-87e8-4ae7-8aaa-5d5afee21620.png" width="224" height="224">
  ```
+x[10]:
+
+<img src="https://user-images.githubusercontent.com/111839344/216855872-1468da30-87e8-4ae7-8aaa-5d5afee21620.png" width="224" height="224">
+
