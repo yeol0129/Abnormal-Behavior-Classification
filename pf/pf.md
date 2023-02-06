@@ -241,3 +241,22 @@ precision: 0.2090
 recall: 0.1949
 f1: 0.2002
 ```
+
+### EfficientNetB0 Result
+<img src="https://user-images.githubusercontent.com/111839344/216874958-8090d16e-ac03-4cf3-9b77-787cb134c208.png" width="300" height="300">
+
+```
+confusion matrix :
+[[5746    0    0  315    1    0    0    3]
+ [   0    1    0    0    0    0    0    0]
+ [   1    0    0    0    0    0    0    0]
+ [ 152    0    0 1983    0    1    6    2]
+ [   0    0    0    1    0    0    0    0]
+ [   0    0    0    2    0    3    0    0]
+ [   0    0    0    2    0    0    0    0]
+ [   2    0    0    0    0    0    0   14]]
+ 
+precision: 0.5402
+recall: 0.5434
+f1: 0.5399
+```
