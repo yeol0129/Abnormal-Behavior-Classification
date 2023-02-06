@@ -222,3 +222,21 @@ test_datagen.fit(x_val)
 >                                                     include_top=False)
 > ```
 > </details>
+
+### ResNet50 Result
+<img src="https://user-images.githubusercontent.com/111839344/216874403-6146acee-7d3c-49af-9adf-e3f5b6175236.png" width="250" height="300">
+```
+confusion matrix : 
+[[5750    0    0  315    0    0    0    0]
+ [   1    0    0    0    0    0    0    0]
+ [   1    0    0    0    0    0    0    0]
+ [ 832    1    0 1311    0    0    0    0]
+ [   0    0    0    1    0    0    0    0]
+ [   0    0    0    5    0    0    0    0]
+ [   1    0    0    1    0    0    0    0]
+ [   7    1    1    7    0    0    0    0]]
+ 
+precision: 0.2090
+recall: 0.1949
+f1: 0.2002
+```
