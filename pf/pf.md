@@ -135,6 +135,7 @@ output :
 <img src="https://user-images.githubusercontent.com/111839344/216853336-db10eb1e-4536-4d2a-993a-9c51b21cdaa3.png" width="450" height="200">
 
 ## Data Preprocessing
+Put the bounding box image in x and code in y.
 <details>
 <summary>open code</summary>
 
